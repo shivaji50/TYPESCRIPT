@@ -9,17 +9,17 @@ These functions are also called as Arrow functions.
 
 // Lamda Expression
 // It is an anonymous function expression that points to a single line of code.
-var Marvellous = (x:number)=> 10 + x 
-console.log(Marvellous(101));
+var sd = (x:number)=> 10 + x 
+console.log(sd(101));
 
 // Lamda Statement / Arrow Function
 // Lambda statement is an anonymous function declaration that 
 // points to a block of code.
 
-var Infosystems = (x:number)=> {    
-    console.log("Inside Infosystems");
+var sd1 = (x:number)=> {    
+    console.log("Shivaji das");
     console.log(x)  
  } 
- Infosystems(100);
+ sd1(100);
 
 
